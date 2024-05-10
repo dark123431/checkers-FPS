@@ -1,0 +1,2 @@
+# checkers-FPS
+school project
